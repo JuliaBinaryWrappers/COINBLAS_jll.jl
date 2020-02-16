@@ -1,0 +1,10 @@
+name = "COINBLAS_jll"
+uuid = "70ea7731-f516-5e6d-b63f-53a67d65e1cf"
+version = "1.4.8+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"
